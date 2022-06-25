@@ -4,3 +4,4 @@ featured :
 -dashboard for admin to create and update posts ,categories , tags  ..
 -manage subscribers 
 -you will recieved newsletters  via mailchimp service through your email 
+-you can controller in featured posts by toggle switch
